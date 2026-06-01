@@ -1,2 +1,2 @@
-# Build Small Apps
+# Build Small App
 Using Html,css,js,react....
