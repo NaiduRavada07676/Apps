@@ -75,6 +75,7 @@ btn.addEventListener("click",function(){
     ul.appendChild(item);
     inp.value="";
 });
+
 // let delbtns = document.querySelectorAll(".delete");
 // for(delbtn of delbtns){
 //     delbtn.addEventListener("click",function(){
@@ -84,6 +85,7 @@ btn.addEventListener("click",function(){
 //     })
 // }
   //             or
+
 ul.addEventListener("click",function(event){
   if (event.target.nodeName == "BUTTON"){
     let listItem = event.target.parentElement;
